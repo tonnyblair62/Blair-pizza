@@ -37,3 +37,9 @@ https://github.com/tonnyblair62/Blair-pizza
 | press place order| | your order has been recieved message|
 | Press home delivery | Your name, phone number and delivery location     |  |
 | press place order| | We have recieved your order and it will be delivered to you with your name, place of delivery and amount to be paid.|
+ All toppings has the same price regardless of the pizza size
+## Contact Information 
+If you have any question or contributions that would better this app, please email me at [mikeycharlesm7@gmail.com]
+## License
+* *MIT License:*
+* Copyright (c) 2019 **Owiti Charles**
