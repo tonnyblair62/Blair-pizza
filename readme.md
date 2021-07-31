@@ -5,16 +5,15 @@
 [Tonny Blair](https://github.com/tonnyblair62/Blair-pizza)
 
 ### Version
-31.2021/07
+07.2019/001
 
 ## Description
 
 This is a web application for Blair Pizza Inn which is a pizza selling venture, that shows details about the services and diffent pizza they sell, their menu and also allows customers to order online for their preferred pizza depending on size, crust they need and also allows them to input a location which they would love the piza to be delivered to. 
-@@ -12,7 +14,7 @@ This is a web application for Pizza Deliciosa which is a pizza selling venture,
+@@ -12,7 +14,7 @@ This is a web application for Blair Pizza Inn which is a pizza selling venture,
 <img src="https://raw.githubuser.com/tonnyblair62/Blair-pizza/master/images/pizzashop.png" width="900px" height="440px">
 
 ## Live Page 
-<!-- https://github.com/tonnyblair62/Blair-pizza  -->
 https://github.com/tonnyblair62/Blair-pizza
 
 
