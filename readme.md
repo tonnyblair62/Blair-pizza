@@ -14,11 +14,12 @@ This is a web application for Blair Pizza Inn which is a pizza selling venture, 
 <img src="https://raw.githubuser.com/tonnyblair62/Blair-pizza/master/images/pizzashop.png" width="900px" height="440px">
 
 ## Live Page 
+<!-- https://github.com/tonnyblair62/Blair-pizza  -->
 https://github.com/tonnyblair62/Blair-pizza
 
 
 ## Installation / Setup instruction
-@@ -36,15 +38,15 @@ This is a web application for Pizza Deliciosa which is a pizza selling venture,
+@@ -36,15 +38,15 @@ This is a web application for Blair Pizza Inn which is a pizza selling venture,
 ## BDD
 | Behaviour      | Input        | Output       |
 | :------------- | :----------: | -----------: |
@@ -36,5 +37,3 @@ https://github.com/tonnyblair62/Blair-pizza
 | press place order| | your order has been recieved message|
 | Press home delivery | Your name, phone number and delivery location     |  |
 | press place order| | We have recieved your order and it will be delivered to you with your name, place of delivery and amount to be paid.|
-
-## Known Bugs
